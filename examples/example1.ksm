@@ -1,0 +1,6 @@
+PACK main {
+    CORE {
+        DECLARE str = "hello world";
+        DISPLAY str;
+    }
+}
